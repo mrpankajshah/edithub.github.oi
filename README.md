@@ -23,6 +23,6 @@
   </p>
 
   <h2>Contact</h2>
-  <p>Email: your@email.com</p>
+  <p>Email: punkajshah1099@gmail.com</p>
 </body>
 </html>
